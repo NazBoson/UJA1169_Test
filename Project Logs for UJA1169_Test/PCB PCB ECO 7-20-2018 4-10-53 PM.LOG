@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Member To Class: ClassName=UJA1169 Member=Component C1 10uF
+Added Member To Class: ClassName=UJA1169 Member=Component C2 22uF
+Added Member To Class: ClassName=UJA1169 Member=Component C3 100 nF
+Added Member To Class: ClassName=UJA1169 Member=Component C4 10nF
+Added Member To Class: ClassName=UJA1169 Member=Component C5 10uF
+Added Member To Class: ClassName=UJA1169 Member=Component C6 4700pF
+Added Member To Class: ClassName=UJA1169 Member=Component D1 S1GFL
+Added Member To Class: ClassName=UJA1169 Member=Component P1 Header 10
+Added Member To Class: ClassName=UJA1169 Member=Component P2 Header 10
+Added Member To Class: ClassName=UJA1169 Member=Component Q1 PnP
+Added Member To Class: ClassName=UJA1169 Member=Component R1 2.2 Ohms
+Added Member To Class: ClassName=UJA1169 Member=Component R2 60.4 Ohms
+Added Member To Class: ClassName=UJA1169 Member=Component R3 4.7k DNP
+Added Member To Class: ClassName=UJA1169 Member=Component R4 60.4 ohms
+Added Member To Class: ClassName=UJA1169 Member=Component R5 10 kOhms
+Added Member To Class: ClassName=UJA1169 Member=Component U1 UJA1169
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=12.7mm

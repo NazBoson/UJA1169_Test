@@ -1,0 +1,36 @@
+Change Component Comment : Designator=R57 Old Comment= New Comment=60.4 ohms
+Change Component Comment : Designator= Old Comment=AC0402KRX7R8BB103 New Comment=10nF
+Change Component Comment : Designator=C17 Old Comment=CAP 10uF 10V 1206(3216) New Comment=10uF
+Change Component Comment : Designator=C18 Old Comment=CAP 10uF 10V 1206(3216) New Comment=10uF
+Change Component Comment : Designator=C19 Old Comment=CAP 22uF 25V 1210(3225) New Comment=22uF
+Change Component Comment : Designator=R58 Old Comment=ERJ-2RKF60R4X New Comment=60.4 Ohms
+Change Component Comment : Designator=Q13 Old Comment=NSV1C200LT1G New Comment=PnP
+Change Component Comment : Designator=R56 Old Comment=RG1005P-103-D-T10 New Comment=10 kOhms
+Change Component Comment : Designator=R54 Old Comment=SG73P1ETTP2R20F New Comment=2.2 Ohms
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator=C16 NewDesignator=C3
+Change Component Designator: OldDesignator=C17 NewDesignator=C5
+Change Component Designator: OldDesignator=C18 NewDesignator=C1
+Change Component Designator: OldDesignator=C19 NewDesignator=C2
+Change Component Designator: OldDesignator=C21 NewDesignator=C6
+Change Component Designator: OldDesignator=Q13 NewDesignator=Q1
+Change Component Designator: OldDesignator=R54 NewDesignator=R1
+Change Component Designator: OldDesignator=R55 NewDesignator=R3
+Change Component Designator: OldDesignator=R56 NewDesignator=R5
+Change Component Designator: OldDesignator=R57 NewDesignator=R4
+Change Component Designator: OldDesignator=R58 NewDesignator=R2
+Change Component Description : Designator=C4 Old Description= New Description=AC0402KRX7R8BB103 - 10000PF 25V X7R 0402
+Change Component Description : Designator=R2 Old Description= New Description=ERJ-2RKF60R4X
+Change Component Description : Designator=R5 Old Description= New Description=RG1005P-103-D-T10
+Change Component Description : Designator=R3 Old Description= New Description=RK73H1ERTTP4701F
+Change Component Description : Designator=R1 Old Description= New Description=SG73P1ETTP2R20F
+Change Component Description : Designator=U1 Old Description= New Description=UJA1169TK/F
+Change Component Description : Designator=Q1 Old Description=100 V, 3 A, Low VCE(sat), PNP Transistor, 3-Pin SOT-23, Pb-Free, Tape and Reel New Description=NSV1C200LT1G - 100 V, 3 A, Low VCE(sat), PNP Transistor, 3-Pin SOT-23, Pb-Free, Tape and Reel
+Change Component Description : Designator=C3 Old Description=AC0402KRX7R6BB104   Multilayer Ceramic Capacitors MLCC - SMD/SMT 100 nF 10% 10V AEC-Q200 New Description=AC0402KRX7R6BB104 - Multilayer Ceramic Capacitors MLCC - SMD/SMT 100 nF 10% 10V AEC-Q200
+Change Component Description : Designator=C1 Old Description=CAP 10uF 10V -20% to +80% 1206 (3216 Metric) Thickness 1.3mm SMD New Description=C1206X106K8RACAUTO & JMK316BJ106KLHT - Thickness 10V -20% to +80% 1206 SMD
+Change Component Description : Designator=C5 Old Description=CAP 10uF 10V -20% to +80% 1206 (3216 Metric) Thickness 1.3mm SMD New Description=C1206X106K8RACAUTO - Thickness 10V -20% to +80% 1206 SMD
+Change Component Description : Designator=C2 Old Description=CAP 22uF 25V -20% to +80% 1210 (3225 Metric) Thickness 2.2mm SMD New Description=GCJ32ER71C226KE01L - CAP 22uF 25V -20% to +80% 1210 (3225 Metric) Thickness 2.2mm SMD
+Change Component Description : Designator=D1 Old Description=S1GFL New Description=S1GFL - Diode
+Change Net Name : Old Net Name=Net_1 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC6_1
